@@ -9,7 +9,7 @@ All the files in this repository require Jupyter installed on your computer to r
 
 ### Installing Jupyter Using Anaconda
 
-* Install Python and Jupyter using  Anaconda Distribution](https://www.anaconda.com/download/), which includes Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science. </br>
+* Install Python and Jupyter using  [Anaconda Distribution](https://www.anaconda.com/download/), which includes Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science. </br>
 
 Congratulations, you have installed Jupyter Notebook! To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
 
