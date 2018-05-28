@@ -1,6 +1,6 @@
 # Python for Data Science and Machine Learning 
 
-This is the collection of notebooks from a Course on [ Python for Data Sciece and Machine Learning by Jose Portilla on Udemy.](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview) <br>
+This is the collection of notebooks from a Course on [ Python for Data Science and Machine Learning by Jose Portilla on Udemy.](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview) <br>
 
 Along with the notebooks from the course, I've also added additional Practice notebooks, Exercise links, Cheatsheets that help you hone your skills :sparkles:. 
 
