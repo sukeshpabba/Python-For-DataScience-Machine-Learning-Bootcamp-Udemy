@@ -35,7 +35,7 @@ Congratulations, you have installed Jupyter Notebook! To run the notebook, run t
 jupyter notebook
 ```
 ## Basic Python Skills
-* **[Basics of Python Notebooks](https://github.com/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-Crash-Course)**
+* **[Basics of Python Notebooks](http://nbviewer.jupyter.org/github/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-Crash-Course/)**
 * **[Python Basics Cheatsheet](https://github.com/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-Crash-Course/Python%20Basics%20Cheatsheets)**
 
 ### Practice Links:
@@ -43,14 +43,14 @@ jupyter notebook
 * **Simplilearn**     : https://www.simplilearn.com/data-science-python-exam-free-practice-test 
 
 ## Numpy 
-* **[Numpy Notebooks](https://github.com/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Analysis/NumPy)**
+* **[Numpy Notebooks](http://nbviewer.jupyter.org/github/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Analysis/NumPy/)**
 * **[Numpy Cheatsheets](https://github.com/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Analysis/NumPy/Numpy%20Cheatsheets)**
 ### Test your Numpy Skills:
 * **Hackerrank**      : https://www.hackerrank.com/domains/python/numpy <br>
 * **Numpy 100**       : https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.ipynb
 
 ## Pandas 
-* **[Pandas Notebooks](https://github.com/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Analysis/Pandas)**
+* **[Pandas Notebooks](http://nbviewer.jupyter.org/github/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Analysis/Pandas/)**
 * **[Pandas Cheatsheets](https://github.com/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Analysis/Pandas/Pandas%20Cheatsheet)**
 ### Pump up your Pandas :D:
 * **MachineLearningPlus**        :   https://www.machinelearningplus.com/python/101-pandas-exercises-python/
