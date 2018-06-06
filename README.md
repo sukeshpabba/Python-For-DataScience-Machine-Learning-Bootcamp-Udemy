@@ -34,7 +34,8 @@ Congratulations, you have installed Jupyter Notebook! To run the notebook, run t
 ```
 jupyter notebook
 ```
-## Basic Python Skills
+## Python Crash Course
+### Basic Python Skills
 * **[Basics of Python Notebooks](http://nbviewer.jupyter.org/github/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-Crash-Course/)**
 * **[Python Basics Cheatsheet](https://github.com/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-Crash-Course/Python%20Basics%20Cheatsheets)**
 
@@ -42,18 +43,36 @@ jupyter notebook
 * **Practice Python** : https://www.hackerrank.com/domains/python/py-introduction <br>
 * **Simplilearn**     : https://www.simplilearn.com/data-science-python-exam-free-practice-test 
 
-## Numpy 
+## Data Analysis 
+### Numpy 
 * **[Numpy Notebooks](http://nbviewer.jupyter.org/github/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Analysis/NumPy/)**
 * **[Numpy Cheatsheets](https://github.com/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Analysis/NumPy/Numpy%20Cheatsheets)**
-### Test your Numpy Skills:
+### Practice Links:
 * **Hackerrank**      : https://www.hackerrank.com/domains/python/numpy <br>
 * **Numpy 100**       : https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.ipynb
 
-## Pandas 
+### Pandas 
 * **[Pandas Notebooks](http://nbviewer.jupyter.org/github/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Analysis/Pandas/)**
 * **[Pandas Cheatsheets](https://github.com/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Analysis/Pandas/Pandas%20Cheatsheet)**
-### Pump up your Pandas :D:
+### Practice Links:
 * **MachineLearningPlus**        :   https://www.machinelearningplus.com/python/101-pandas-exercises-python/
 * **Exercises from @guipsamora** :   https://github.com/guipsamora/pandas_exercises 
+
+
+## Data Visualization
+### Matplotlib 
+* **[Matplotlib Notebooks](http://nbviewer.jupyter.org/github/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Visualization/Matplotlib/)** 
+* **[Matplotlib Cheatsheets](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)**
+
+### Seaborn 
+* **[Seaborn Notebooks](http://nbviewer.jupyter.org/github/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Visualization/Seaborn/)**
+* **[Seaborn cheatsheets](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)**
+
+### Pandas Built-in Data Visualization 
+* **[Pandas Built in viz Notebooks](http://nbviewer.jupyter.org/github/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Visualization/Pandas%20Built-in%20Data%20Viz/)**
+
+### Plotly and Cufflinks
+* **[Plotly and Cufflinks Notebooks](http://nbviewer.jupyter.org/github/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Visualization/Plotly%20and%20Cufflinks/)**
+* **[Geographical Plotting Notebooks](http://nbviewer.jupyter.org/github/sukeshpabba/Python-For-DataScience-Machine-Learning-Bootcamp-Udemy/tree/master/Python-for-Data-Visualization/Geographical%20Plotting/)**
 
 **Happy Data Hours** :chart_with_upwards_trend:
